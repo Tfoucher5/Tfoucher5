@@ -13,8 +13,12 @@ C'est un mini-jeu rapide et compétitif qui permet de tester ses connaissances a
 ### ✨ Fonctionnalités
 * 🚗 Lancez une partie avec `/guesscar`
 * 💡 Un système d'indices pour vous aider
-* 🏆 Des classements pour comparer vos scores
 * 📚 Une collection personnelle des voitures que vous avez découvertes
+* 🏆 **Des classements diversifiés** pour comparer vos scores
+* 🎖️ Atteignez de nouveaux **Prestiges** pour montrer votre dévouement
+* ⭐ Un système de score avancé :
+    * Points basés sur la **rareté** du véhicule.
+    * **Multiplicateurs** de récompense pour la vitesse, la précision (moins d'essais) et l'utilisation d'indices.
 
 <p align="center">
   <a href="https://guess-the-car.com/" target="_blank">
