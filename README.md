@@ -1,9 +1,5 @@
 # Salut ! 👋 Je suis Théo Foucher
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFnb3ZwdzJ1OHB6Nnc4NGs5cHJkbmJnenR1YmFxbHk1M2Q0b21pbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACmCgSQ/giphy.gif" width="300" />
-</p>
-
 Je suis un étudiant en **Licence Informatique** basé à Saint-Nazaire, passionné par le développement web et la création de projets interactifs.
 
 ---
