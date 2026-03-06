@@ -4,31 +4,41 @@ Je suis un étudiant en **Licence Informatique** basé à Saint-Nazaire, passion
 
 ---
 
-## 🚀 Mon Projet Phare : GuessTheCar
+## 🚀 Mon Projet Phare : ZIK
 
-Mon projet principal est **[GuessTheCar](https://guess-the-car.com/)**, un bot Discord que j'ai conçu et que je maintiens.
-
-C'est un mini-jeu rapide et compétitif qui permet de tester ses connaissances automobiles. Les joueurs doivent deviner la marque et le modèle d'une voiture le plus rapidement possible.
+Mon projet principal actuel est **[ZIK](https://www.zik-music.fr/)**, un site web interactif de **Blind Tests musicaux**.  
+Les utilisateurs peuvent jouer seuls ou entre amis, tester leurs connaissances musicales et s’amuser avec des playlists variées.
 
 ### ✨ Fonctionnalités
-* 🚗 Lancez une partie avec `/guesscar`
-* 💡 Un système d'indices pour vous aider
-* 📚 Une collection personnelle des voitures que vous avez découvertes
-* 🏆 **Des classements diversifiés** pour comparer vos scores
-* 🎖️ Atteignez de nouveaux **Prestiges** pour montrer votre dévouement
-* ⭐ Un système de score avancé :
-    * Points basés sur la **rareté** du véhicule.
-    * **Multiplicateurs** de récompense pour la vitesse, la précision (moins d'essais) et l'utilisation d'indices.
+* 🎵 Jouez à des Blind Tests musicaux directement en ligne
+* 🏆 Suivi des scores et statistiques personnelles
+* 🎮 Mode solo ou multi-joueurs pour défier vos amis
+* 💡 Interface intuitive et réactive, optimisée pour tous les écrans
+* ⚡ Rapidité et fluidité grâce à WebSocket et JavaScript
 
 <p align="center">
-  <a href="https://guess-the-car.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Visiter_le_site-guess--the--car.com-blue?style=for-the-badge&logo=website&logoColor=white" alt="Visiter le site GuessTheCar">
+  <a href="https://www.zik-music.fr" target="_blank">
+    <img src="https://img.shields.io/badge/Accéder_au_site-zik--music.fr-blue?style=for-the-badge&logo=website&logoColor=white" alt="Accéder au site ZIK">
   </a>
   &nbsp;&nbsp;
-  <a href="https://discord.com/api/oauth2/authorize?client_id=1340380522655907852&permissions=8&scope=bot%20applications.commands" target="_blank">
-    <img src="https://img.shields.io/badge/Ajouter le Bot-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Ajouter GuessTheCar sur Discord">
+  <a href="https://github.com/Tfoucher5/ZIK" target="_blank">
+    <img src="https://img.shields.io/badge/Consulter_le_code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo GitHub ZIK">
   </a>
 </p>
+
+---
+
+## 🚀 Ancien Projet : GuessTheCar (archivé)
+
+**[GuessTheCar](https://guess-the-car.com/)** était un bot Discord de devinettes automobiles que j’avais développé.  
+Le projet est maintenant **arrêté**, mais il proposait un jeu interactif pour tester ses connaissances sur les marques et modèles de voitures.
+
+### ✨ Fonctionnalités principales
+* 🚗 Lancer une partie avec `/guesscar`
+* 💡 Système d’indices pour aider à deviner
+* 📚 Collection personnelle des voitures découvertes
+* 🏆 Classements dynamiques et scores avancés
+* 🎖️ Prestiges et multiplicateurs de points selon vitesse, précision et rareté
 
 ---
 
@@ -78,8 +88,6 @@ Voici les langages et frameworks avec lesquels je suis à l'aise :
 ---
 
 ## 📫 Comment me contacter ?
-
-N'hésitez pas à me contacter ou à jeter un œil à mon parcours professionnel :
 
 <p align="left">
   <a href="https://www.linkedin.com/in/theo-foucher-3956b52a0/" target="_blank">
