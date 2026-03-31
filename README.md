@@ -11,8 +11,9 @@ Les utilisateurs peuvent jouer seuls ou entre amis, tester leurs connaissances m
 
 ### ✨ Fonctionnalités
 * 🎵 Jouez à des Blind Tests musicaux directement en ligne
-* 🏆 Suivi des scores et statistiques personnelles
+* 🏆 Suivi vos scores et statistiques personnelles
 * 🎮 Mode solo ou multi-joueurs pour défier vos amis
+* 🛋️ Mode salon Kahoot-Like pour jouer entre amis ou en famille
 * 💡 Interface intuitive et réactive, optimisée pour tous les écrans
 * ⚡ Rapidité et fluidité grâce à WebSocket et JavaScript
 
