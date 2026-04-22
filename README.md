@@ -1,97 +1,123 @@
 # Salut ! 👋 Je suis Théo Foucher
 
-Je suis un étudiant en **Licence Informatique** basé à Saint-Nazaire, passionné par le développement web et la création de projets interactifs.
+Étudiant en **Licence Informatique** basé à **Saint‑Nazaire**, passionné par le **développement web** et la création de projets **interactifs**.  
+J’aime builder des produits concrets : **apps temps réel**, **outils open‑source**, **expériences utilisateur soignées**.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/theo-foucher-3956b52a0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Théo%20Foucher-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Théo Foucher"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:theo@zik-music.fr">
+    <img src="https://img.shields.io/badge/Email-theo%40zik--music.fr-222?style=for-the-badge&logo=gmail&logoColor=white" alt="Email theo@zik-music.fr"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Tfoucher5" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@Tfoucher5-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Tfoucher5"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tfoucher5&style=for-the-badge&color=0A66C2" alt="Profile views"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/Tfoucher5?style=for-the-badge&label=Followers&logo=github" alt="GitHub followers"/>
+</p>
 
 ---
 
-## 🚀 Mon Projet Phare : ZIK
+## 🚀 Projets en avant
 
-Mon projet principal actuel est **[ZIK](https://www.zik-music.fr/)**, un site web interactif de **Blind Tests musicaux**.  
-Les utilisateurs peuvent jouer seuls ou entre amis, tester leurs connaissances musicales et s’amuser avec des playlists variées.
-
-### ✨ Fonctionnalités
-* 🎵 Jouez à des Blind Tests musicaux directement en ligne
-* 🏆 Suivi vos scores et statistiques personnelles
-* 🎮 Mode solo ou multi-joueurs pour défier vos amis
-* 🛋️ Mode salon Kahoot-Like pour jouer entre amis ou en famille
-* 💡 Interface intuitive et réactive, optimisée pour tous les écrans
-* ⚡ Rapidité et fluidité grâce à WebSocket et JavaScript
+### 🎵 ZIK — Blind test multijoueur en temps réel
+**ZIK** est une application web de blind test **synchro**, jouable seul ou entre amis.  
+Rooms, scoreboards, stats, import playlists… le tout avec une UX rapide et fluide.
 
 <p align="center">
-  <a href="https://www.zik-music.fr" target="_blank">
-    <img src="https://img.shields.io/badge/Accéder_au_site-zik--music.fr-blue?style=for-the-badge&logo=website&logoColor=white" alt="Accéder au site ZIK">
+  <a href="https://www.zik-music.fr/" target="_blank">
+    <img src="https://img.shields.io/badge/Accéder_au_site-zik--music.fr-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="ZIK website"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Tfoucher5/ZIK" target="_blank">
-    <img src="https://img.shields.io/badge/Consulter_le_code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo GitHub ZIK">
+    <img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="ZIK repo"/>
   </a>
 </p>
 
 ---
 
-## 🚀 Ancien Projet : GuessTheCar (archivé)
+### 📦 guess-rater — Fuzzy matching / string similarity (npm)
+**guess-rater** est une librairie **ultra‑légère** (0 dépendance) pour comparer des chaînes de caractères :  
+normalisation configurable + plusieurs algorithmes + ranking + best match + explain mode.
 
-**[GuessTheCar](https://guess-the-car.com/)** était un bot Discord de devinettes automobiles que j’avais développé.  
-Le projet est maintenant **arrêté**, mais il proposait un jeu interactif pour tester ses connaissances sur les marques et modèles de voitures.
-
-### ✨ Fonctionnalités principales
-* 🚗 Lancer une partie avec `/guesscar`
-* 💡 Système d’indices pour aider à deviner
-* 📚 Collection personnelle des voitures découvertes
-* 🏆 Classements dynamiques et scores avancés
-* 🎖️ Prestiges et multiplicateurs de points selon vitesse, précision et rareté
-
----
-
-## 💻 Technologies & Compétences
-
-Voici les langages et frameworks avec lesquels je suis à l'aise :
-
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br><strong>HTML5</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br><strong>CSS3</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br><strong>JavaScript</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br><strong>PHP</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br><strong>Node.js</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br><strong>React</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br><strong>Laravel</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br><strong>Git</strong>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.npmjs.com/package/guess-rater" target="_blank">
+    <img src="https://img.shields.io/badge/npm-guess--rater-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="guess-rater npm"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Tfoucher5/guess-rater" target="_blank">
+    <img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="guess-rater repo"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tfoucher5.github.io/guess-rater/" target="_blank">
+    <img src="https://img.shields.io/badge/Documentation-GitHub%20Pages-222?style=for-the-badge&logo=githubpages&logoColor=white" alt="guess-rater docs"/>
+  </a>
+</p>
 
 ---
 
-## 📫 Comment me contacter ?
+## ⭐ Projets épinglés (cards)
+
+<p align="center">
+  <a href="https://github.com/Tfoucher5/ZIK">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tfoucher5&repo=ZIK&theme=transparent" alt="ZIK repo card"/>
+  </a>
+  <a href="https://github.com/Tfoucher5/guess-rater">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tfoucher5&repo=guess-rater&theme=transparent" alt="guess-rater repo card"/>
+  </a>
+</p>
+
+---
+
+## 📊 Stats GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tfoucher5&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&rank_icon=github" alt="GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tfoucher5&theme=transparent" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tfoucher5&layout=compact&theme=transparent" alt="Top languages"/>
+</p>
+
+---
+
+## 🧰 Tech & Compétences
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/theo-foucher-3956b52a0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Théo Foucher-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Profil LinkedIn">
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,react,svelte,laravel,git&perline=9" alt="Skills"/>
 </p>
+
+### Ce que j’aime particulièrement
+- ⚡ Temps réel (WebSocket / Socket.IO)
+- 🧪 Qualité (tests, CI, docs)
+- 🧠 Algo utiles (matching, scoring, heuristiques)
+- ✨ DX (API claire, types, autocomplete)
+
+---
+
+## 🤝 Open‑source
+
+Je publie des outils réutilisables et je suis preneur de retours :
+- Issues = feedback / bugs / idées
+- PRs = améliorations (review sérieuse avant merge)
+
+---
+
+## 📫 Contact
+
+- Email : **theo@zik-music.fr**
+- LinkedIn : https://www.linkedin.com/in/theo-foucher-3956b52a0/
+
+<!-- Notes techniques / sources (tu peux supprimer ce bloc si tu veux) -->
+<!-- github-readme-stats params + options: https://github.com/anuraghazra/github-readme-stats 
