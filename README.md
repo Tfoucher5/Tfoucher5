@@ -17,12 +17,6 @@ J’aime builder des produits concrets : **apps temps réel**, **outils open‑s
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tfoucher5&style=for-the-badge&color=0A66C2" alt="Profile views"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/Tfoucher5?style=for-the-badge&label=Followers&logo=github" alt="GitHub followers"/>
-</p>
-
 ---
 
 ## 🚀 Projets en avant
